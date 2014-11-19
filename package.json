@@ -1,5 +1,5 @@
 {
-  "name": "derby-less",
+  "name": "k-less",
   "version": "0.1.0",
   "description": "Derby plugin to add Less support",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-less.git"
+    "url": "git://github.com/kantele/k-less.git"
   },
   "keywords": [
     "derby",
@@ -19,9 +19,9 @@
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeparty/derby-less/issues"
+    "url": "https://github.com/kantele/k-less/issues"
   },
-  "homepage": "https://github.com/codeparty/derby-less",
+  "homepage": "https://github.com/kantele/k-less",
   "dependencies": {
     "less": "~1.7.0"
   }
