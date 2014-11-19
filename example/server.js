@@ -1,1 +1,1 @@
-require('derby-starter').run(__dirname+'/index.js');
+require('k-starter').run(__dirname+'/index.js');

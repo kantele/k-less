@@ -1,6 +1,6 @@
 {
   "name": "k-less",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Derby plugin to add Less support",
   "main": "index.js",
   "scripts": {
